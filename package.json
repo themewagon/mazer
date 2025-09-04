@@ -73,6 +73,7 @@
     "bestzip": "^2.2.1",
     "browser-sync": "^2.27.11",
     "browser-sync-webpack-plugin": "^2.3.0",
+    "gh-pages": "^6.3.0",
     "husky": "^9.1.7",
     "postcss": "^8.4.20",
     "prettier": "^3.0.3",
