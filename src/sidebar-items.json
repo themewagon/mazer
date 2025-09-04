@@ -149,7 +149,7 @@
       },
       {
         "name": "RTL Layout",
-        "url": "layout-rtl.html"
+        "url": "#!"
       },
       {
         "name": "Horizontal Menu",
@@ -395,7 +395,7 @@
     "name": "Checkout Page",
     "key": "application-checkout",
     "icon": "basket-fill",
-    "url": "application-checkout.html"
+    "url": "#!"
   },
   {
     "name": "Account",
@@ -458,18 +458,18 @@
     "name": "Documentation",
     "key": "error",
     "icon": "life-preserver",
-    "url": "https://zuramai.github.io/mazer/docs"
+    "url": "#!"
   },
   {
     "name": "Contribute",
     "key": "error",
-    "url": "https://github.com/zuramai/mazer/blob/main/CONTRIBUTING.md",
+    "url": "#!",
     "icon": "puzzle"
   },
   {
     "name": "Donate",
     "key": "error",
-    "url": "https://github.com/sponsors/zuramai",
+    "url": "#!",
     "icon": "cash"
   }
 ]
